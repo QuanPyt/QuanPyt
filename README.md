@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuanPyt
+- 👋 Hi, I’m @QuanLTW
 - 👀 I’m interested in python/C/C++/HTML CSS JS
 - 🌱 I’m currently learning DH CNTT & TT Thai NGuyen
 - 💞️ I’m looking to collaborate on ...
